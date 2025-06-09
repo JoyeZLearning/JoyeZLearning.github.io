@@ -1,16 +1,6 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 
-
-My research interest includes computer vision, diffusion model, remote sensing and SAR image interpretation. 
+My research interest includes computer vision, diffusion model, remote sensing image interpretation, and object detection in SAR imagery. 
 
 
 
