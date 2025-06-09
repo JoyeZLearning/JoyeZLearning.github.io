@@ -4,19 +4,19 @@ My research interest includes computer vision, diffusion model, remote sensing i
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 MaDiNet has been published on IEEE Transactions on Circuits and Systems for Video Technology. 
-- *2025.05*: &nbsp;🎉🎉 My paper DiffDet4SAR has entered ESI 1% Highly cited paper. 
+- *2025.05*: &nbsp;🎉🎉 DiffDet4SAR has entered ESI 1% Highly cited paper. 
 
 # 📝 Publications 
 
 
-[MaDiNet: Mamba Diffusion Network for SAR Target Detection](https://ieeexplore.ieee.org/document/11016924)
-
-Jie Zhou, Yongxiang Liu, Bowen Peng, Li Liu, Xiang Li
-
-[DiffDet4SAR: Diffusion-Based Aircraft Target Detection Network for SAR Images](https://ieeexplore.ieee.org/document/10494361)
+Jie Zhou, Yongxiang Liu, Bowen Peng, Li Liu, Xiang Li. MaDiNet: Mamba Diffusion Network for SAR Target Detection, *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2025. [PDF](https://ieeexplore.ieee.org/document/11016924)
 
 
-Jie Zhou, Chao Xiao, Bo Peng, Zhen Liu, Li Liu, Yongxiang Liu, Xiang Li
+
+Jie Zhou, Chao Xiao, Bo Peng, Zhen Liu, Li Liu, Yongxiang Liu, Xiang Li. DiffDet4SAR: Diffusion-Based Aircraft Target Detection Network for SAR Images, *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2024. [PDF](https://ieeexplore.ieee.org/document/10494361)
+
+
+
 
 
 # 📖 Educations
