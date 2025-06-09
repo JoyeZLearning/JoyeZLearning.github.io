@@ -29,13 +29,15 @@ My research interest includes computer vision, diffusion model, remote sensing a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [MaDiNet: Mamba Diffusion Network for SAR Target Detection](https://ieeexplore.ieee.org/document/11016924)
+
+
 Jie Zhou, Yongxiang Liu, Bowen Peng, Li Liu, Xiang Li
 
 [DiffDet4SAR: Diffusion-Based Aircraft Target Detection Network for SAR Images](https://ieeexplore.ieee.org/document/10494361)
+
+
 Jie Zhou, Chao Xiao, Bo Peng, Zhen Liu, Li Liu, Yongxiang Liu, Xiang Li
 
 
